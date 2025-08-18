@@ -14,7 +14,7 @@
     color:white;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position:absolute;
-    font-size:150em;
+    font-size:150px;
     margin-left:27%;
     margin-top:-20%;
 }
@@ -172,15 +172,4 @@ f{
 .top:hover{
     background-color:white;
      color:#1d2971;
-}
-
-@media (min-width:600px){
-    *{
-        --black:#1e1e1e;
-        --white:#ffffff;
-    }
-    body{
-        width:100%;
-        height:100vh;
-    }
 }
