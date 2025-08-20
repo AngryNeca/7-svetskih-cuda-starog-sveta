@@ -1,5 +1,4 @@
-﻿function Uvecaj(glavna, tekst, naslov, slicica) {
-    document.getElementById("glavna").src = glavna.src;
+function Uvecaj(tekst, naslov, slicica) {
     document.getElementById("slicica").src = slicica.src;
 
     var visibleP = document.getElementById(tekst);
