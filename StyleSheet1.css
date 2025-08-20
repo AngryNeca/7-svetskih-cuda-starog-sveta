@@ -20,18 +20,18 @@ body {
     font-size:150px;
     text-align: center;
     margin-left: 10%;
-    margin-top: 160px;
+    margin-top: 6%;
 }
 .container {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
 }   
 
 .container1 {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
 }
 
 .tekst2 {
